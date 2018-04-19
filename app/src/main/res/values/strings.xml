@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GotQuiz</string>
+    <string name="scroll_down_text">Scroll down to start a quiz!</string>
+    <string name="question_one">1. Who actually did Ramsay Snow marry?</string>
+    <string name="question_one_answer_one">Arya Stark</string>
+    <string name="question_one_answer_two">Sansa Stark</string>
+    <string name="question_one_answer_three">Jeyne Poole</string>
+    <string name="question_one_answer_four">Margaery Tyrell</string>
+    
+    <string name="question_two">2. Which of the following titles belong to Daenerys?</string>
+    <string name="question_two_answer_one">Queen of the Dragons</string>
+    <string name="question_two_answer_two">Queen of Meereen</string>
+    <string name="question_two_answer_three">Queen of the Andals and the First Men</string>
+
+    <string name="question_three">3. What is the name of the biggest stronghold in Westeros?</string>
+    <string name="question_three_answer">Harenhall</string>
+    
+    <string name="question_four">4. What is the name of Hodor?</string>
+    <string name="question_four_answer">Walder</string>
+
+    <string name="question_five">5. Which are the names of Aegon the Conqueror\'s and his sisters\' dragons?</string>
+    <string name="question_five_answer_one">Meraxes</string>
+    <string name="question_five_answer_two">Syrax</string>
+    <string name="question_five_answer_three">Balerion</string>
+
+    <string name="question_six">6. What is the name of the "Mad King"?</string>
+    <string name="question_six_answer_one">Aenys</string>
+    <string name="question_six_answer_two">Aerys</string>
+    <string name="question_six_answer_three">Aegon</string>
+
+    <string name="submit">Submit</string>
+</resources>
